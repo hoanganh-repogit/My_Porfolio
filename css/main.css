@@ -1,6 +1,7 @@
 @import "theme.css";
 @import "./responsive.css";
 @import "./sections/header.css";
+@import "./sections/about-me.css";
 @import "./sections/skills.css";
 @import "./sections/footer.css";
 @import "./sections/project.css";
