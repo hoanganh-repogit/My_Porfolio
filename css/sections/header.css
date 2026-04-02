@@ -1,10 +1,13 @@
+/** ========= 
+	Header
+===============*/
 header {
   margin-top: 40px;
 }
 
 .header__container {
   display: flex;
-  gap: 20px;
+  gap: 40px;
 
   & p {
     color: var(--n-600);
